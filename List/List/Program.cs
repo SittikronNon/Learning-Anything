@@ -29,6 +29,7 @@ namespace List
 
             foreach(object obj in myArrayList)
             {
+                Console.WriteLine("number 1");
                 if(obj is int)
                 {
                     sum += Convert.ToDouble(obj);
