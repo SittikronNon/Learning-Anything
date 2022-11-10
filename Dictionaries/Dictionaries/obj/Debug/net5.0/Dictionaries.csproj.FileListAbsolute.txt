@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\c#\Dictionaries\Dictionaries\bin\Debug\net5.0\Dictionaries.exe
+C:\Users\User\Desktop\c#\Dictionaries\Dictionaries\bin\Debug\net5.0\Dictionaries.deps.json
+C:\Users\User\Desktop\c#\Dictionaries\Dictionaries\bin\Debug\net5.0\Dictionaries.runtimeconfig.json
+C:\Users\User\Desktop\c#\Dictionaries\Dictionaries\bin\Debug\net5.0\Dictionaries.runtimeconfig.dev.json
+C:\Users\User\Desktop\c#\Dictionaries\Dictionaries\bin\Debug\net5.0\Dictionaries.dll
+C:\Users\User\Desktop\c#\Dictionaries\Dictionaries\bin\Debug\net5.0\Dictionaries.pdb
+C:\Users\User\Desktop\c#\Dictionaries\Dictionaries\obj\Debug\net5.0\Dictionaries.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\c#\Dictionaries\Dictionaries\obj\Debug\net5.0\Dictionaries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\c#\Dictionaries\Dictionaries\obj\Debug\net5.0\Dictionaries.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\c#\Dictionaries\Dictionaries\obj\Debug\net5.0\Dictionaries.AssemblyInfo.cs
+C:\Users\User\Desktop\c#\Dictionaries\Dictionaries\obj\Debug\net5.0\Dictionaries.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c#\Dictionaries\Dictionaries\obj\Debug\net5.0\Dictionaries.dll
+C:\Users\User\Desktop\c#\Dictionaries\Dictionaries\obj\Debug\net5.0\refint\Dictionaries.dll
+C:\Users\User\Desktop\c#\Dictionaries\Dictionaries\obj\Debug\net5.0\Dictionaries.pdb
+C:\Users\User\Desktop\c#\Dictionaries\Dictionaries\obj\Debug\net5.0\Dictionaries.genruntimeconfig.cache
+C:\Users\User\Desktop\c#\Dictionaries\Dictionaries\obj\Debug\net5.0\ref\Dictionaries.dll
