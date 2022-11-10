@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\c#\\c#\\Dictionaries\\Dictionaries\\Dictionaries.csproj",
-      "projectName": "Dictionaries",
-      "projectPath": "C:\\Users\\User\\Desktop\\c#\\c#\\Dictionaries\\Dictionaries\\Dictionaries.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\c#\\c#\\stacksAndQueues\\stacksAndQueues\\stacksAndQueues.csproj",
+      "projectName": "stacksAndQueues",
+      "projectPath": "C:\\Users\\User\\Desktop\\c#\\c#\\stacksAndQueues\\stacksAndQueues\\stacksAndQueues.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\c#\\c#\\Dictionaries\\Dictionaries\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\c#\\c#\\stacksAndQueues\\stacksAndQueues\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
