@@ -37,7 +37,7 @@ namespace InheritanceC
 
         protected int GetNextID()
         {
-            return ++currentPostId;
+            return currentPostId++;
         }
 
         public void Update(string title, bool isPublic)
