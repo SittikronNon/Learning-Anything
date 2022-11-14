@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\c#\c#\IEnumerableDemo\IEnumerableDemo\bin\Debug\net5.0\IEnumerableDemo.exe
+C:\Users\User\Desktop\c#\c#\IEnumerableDemo\IEnumerableDemo\bin\Debug\net5.0\IEnumerableDemo.deps.json
+C:\Users\User\Desktop\c#\c#\IEnumerableDemo\IEnumerableDemo\bin\Debug\net5.0\IEnumerableDemo.runtimeconfig.json
+C:\Users\User\Desktop\c#\c#\IEnumerableDemo\IEnumerableDemo\bin\Debug\net5.0\IEnumerableDemo.runtimeconfig.dev.json
+C:\Users\User\Desktop\c#\c#\IEnumerableDemo\IEnumerableDemo\bin\Debug\net5.0\IEnumerableDemo.dll
+C:\Users\User\Desktop\c#\c#\IEnumerableDemo\IEnumerableDemo\bin\Debug\net5.0\IEnumerableDemo.pdb
+C:\Users\User\Desktop\c#\c#\IEnumerableDemo\IEnumerableDemo\obj\Debug\net5.0\IEnumerableDemo.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\c#\c#\IEnumerableDemo\IEnumerableDemo\obj\Debug\net5.0\IEnumerableDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\c#\c#\IEnumerableDemo\IEnumerableDemo\obj\Debug\net5.0\IEnumerableDemo.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\c#\c#\IEnumerableDemo\IEnumerableDemo\obj\Debug\net5.0\IEnumerableDemo.AssemblyInfo.cs
+C:\Users\User\Desktop\c#\c#\IEnumerableDemo\IEnumerableDemo\obj\Debug\net5.0\IEnumerableDemo.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c#\c#\IEnumerableDemo\IEnumerableDemo\obj\Debug\net5.0\IEnumerableDemo.dll
+C:\Users\User\Desktop\c#\c#\IEnumerableDemo\IEnumerableDemo\obj\Debug\net5.0\refint\IEnumerableDemo.dll
+C:\Users\User\Desktop\c#\c#\IEnumerableDemo\IEnumerableDemo\obj\Debug\net5.0\IEnumerableDemo.pdb
+C:\Users\User\Desktop\c#\c#\IEnumerableDemo\IEnumerableDemo\obj\Debug\net5.0\IEnumerableDemo.genruntimeconfig.cache
+C:\Users\User\Desktop\c#\c#\IEnumerableDemo\IEnumerableDemo\obj\Debug\net5.0\ref\IEnumerableDemo.dll
