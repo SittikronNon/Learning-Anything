@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\c#\c#\IEnumeratorAndIEnumerable\IEnumeratorAndIEnumerable\bin\Debug\net5.0\IEnumeratorAndIEnumerable.exe
+C:\Users\User\Desktop\c#\c#\IEnumeratorAndIEnumerable\IEnumeratorAndIEnumerable\bin\Debug\net5.0\IEnumeratorAndIEnumerable.deps.json
+C:\Users\User\Desktop\c#\c#\IEnumeratorAndIEnumerable\IEnumeratorAndIEnumerable\bin\Debug\net5.0\IEnumeratorAndIEnumerable.runtimeconfig.json
+C:\Users\User\Desktop\c#\c#\IEnumeratorAndIEnumerable\IEnumeratorAndIEnumerable\bin\Debug\net5.0\IEnumeratorAndIEnumerable.runtimeconfig.dev.json
+C:\Users\User\Desktop\c#\c#\IEnumeratorAndIEnumerable\IEnumeratorAndIEnumerable\bin\Debug\net5.0\IEnumeratorAndIEnumerable.dll
+C:\Users\User\Desktop\c#\c#\IEnumeratorAndIEnumerable\IEnumeratorAndIEnumerable\bin\Debug\net5.0\IEnumeratorAndIEnumerable.pdb
+C:\Users\User\Desktop\c#\c#\IEnumeratorAndIEnumerable\IEnumeratorAndIEnumerable\obj\Debug\net5.0\IEnumeratorAndIEnumerable.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\c#\c#\IEnumeratorAndIEnumerable\IEnumeratorAndIEnumerable\obj\Debug\net5.0\IEnumeratorAndIEnumerable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\c#\c#\IEnumeratorAndIEnumerable\IEnumeratorAndIEnumerable\obj\Debug\net5.0\IEnumeratorAndIEnumerable.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\c#\c#\IEnumeratorAndIEnumerable\IEnumeratorAndIEnumerable\obj\Debug\net5.0\IEnumeratorAndIEnumerable.AssemblyInfo.cs
+C:\Users\User\Desktop\c#\c#\IEnumeratorAndIEnumerable\IEnumeratorAndIEnumerable\obj\Debug\net5.0\IEnumeratorAndIEnumerable.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c#\c#\IEnumeratorAndIEnumerable\IEnumeratorAndIEnumerable\obj\Debug\net5.0\IEnumeratorAndIEnumerable.dll
+C:\Users\User\Desktop\c#\c#\IEnumeratorAndIEnumerable\IEnumeratorAndIEnumerable\obj\Debug\net5.0\refint\IEnumeratorAndIEnumerable.dll
+C:\Users\User\Desktop\c#\c#\IEnumeratorAndIEnumerable\IEnumeratorAndIEnumerable\obj\Debug\net5.0\IEnumeratorAndIEnumerable.pdb
+C:\Users\User\Desktop\c#\c#\IEnumeratorAndIEnumerable\IEnumeratorAndIEnumerable\obj\Debug\net5.0\IEnumeratorAndIEnumerable.genruntimeconfig.cache
+C:\Users\User\Desktop\c#\c#\IEnumeratorAndIEnumerable\IEnumeratorAndIEnumerable\obj\Debug\net5.0\ref\IEnumeratorAndIEnumerable.dll
