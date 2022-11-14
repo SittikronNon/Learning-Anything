@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\c#\c#\InheritanceChallenge2\InheritanceChallenge2\bin\Debug\net5.0\InheritanceChallenge2.exe
+C:\Users\User\Desktop\c#\c#\InheritanceChallenge2\InheritanceChallenge2\bin\Debug\net5.0\InheritanceChallenge2.deps.json
+C:\Users\User\Desktop\c#\c#\InheritanceChallenge2\InheritanceChallenge2\bin\Debug\net5.0\InheritanceChallenge2.runtimeconfig.json
+C:\Users\User\Desktop\c#\c#\InheritanceChallenge2\InheritanceChallenge2\bin\Debug\net5.0\InheritanceChallenge2.runtimeconfig.dev.json
+C:\Users\User\Desktop\c#\c#\InheritanceChallenge2\InheritanceChallenge2\bin\Debug\net5.0\InheritanceChallenge2.dll
+C:\Users\User\Desktop\c#\c#\InheritanceChallenge2\InheritanceChallenge2\bin\Debug\net5.0\InheritanceChallenge2.pdb
+C:\Users\User\Desktop\c#\c#\InheritanceChallenge2\InheritanceChallenge2\obj\Debug\net5.0\InheritanceChallenge2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\c#\c#\InheritanceChallenge2\InheritanceChallenge2\obj\Debug\net5.0\InheritanceChallenge2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\c#\c#\InheritanceChallenge2\InheritanceChallenge2\obj\Debug\net5.0\InheritanceChallenge2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\c#\c#\InheritanceChallenge2\InheritanceChallenge2\obj\Debug\net5.0\InheritanceChallenge2.AssemblyInfo.cs
+C:\Users\User\Desktop\c#\c#\InheritanceChallenge2\InheritanceChallenge2\obj\Debug\net5.0\InheritanceChallenge2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c#\c#\InheritanceChallenge2\InheritanceChallenge2\obj\Debug\net5.0\InheritanceChallenge2.dll
+C:\Users\User\Desktop\c#\c#\InheritanceChallenge2\InheritanceChallenge2\obj\Debug\net5.0\refint\InheritanceChallenge2.dll
+C:\Users\User\Desktop\c#\c#\InheritanceChallenge2\InheritanceChallenge2\obj\Debug\net5.0\InheritanceChallenge2.pdb
+C:\Users\User\Desktop\c#\c#\InheritanceChallenge2\InheritanceChallenge2\obj\Debug\net5.0\InheritanceChallenge2.genruntimeconfig.cache
+C:\Users\User\Desktop\c#\c#\InheritanceChallenge2\InheritanceChallenge2\obj\Debug\net5.0\ref\InheritanceChallenge2.dll
