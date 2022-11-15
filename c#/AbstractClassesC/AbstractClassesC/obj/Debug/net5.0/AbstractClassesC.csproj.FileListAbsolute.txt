@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\c#\c#\AbstractClassesC\AbstractClassesC\bin\Debug\net5.0\AbstractClassesC.exe
+C:\Users\User\Desktop\c#\c#\AbstractClassesC\AbstractClassesC\bin\Debug\net5.0\AbstractClassesC.deps.json
+C:\Users\User\Desktop\c#\c#\AbstractClassesC\AbstractClassesC\bin\Debug\net5.0\AbstractClassesC.runtimeconfig.json
+C:\Users\User\Desktop\c#\c#\AbstractClassesC\AbstractClassesC\bin\Debug\net5.0\AbstractClassesC.runtimeconfig.dev.json
+C:\Users\User\Desktop\c#\c#\AbstractClassesC\AbstractClassesC\bin\Debug\net5.0\AbstractClassesC.dll
+C:\Users\User\Desktop\c#\c#\AbstractClassesC\AbstractClassesC\bin\Debug\net5.0\AbstractClassesC.pdb
+C:\Users\User\Desktop\c#\c#\AbstractClassesC\AbstractClassesC\obj\Debug\net5.0\AbstractClassesC.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\c#\c#\AbstractClassesC\AbstractClassesC\obj\Debug\net5.0\AbstractClassesC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\c#\c#\AbstractClassesC\AbstractClassesC\obj\Debug\net5.0\AbstractClassesC.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\c#\c#\AbstractClassesC\AbstractClassesC\obj\Debug\net5.0\AbstractClassesC.AssemblyInfo.cs
+C:\Users\User\Desktop\c#\c#\AbstractClassesC\AbstractClassesC\obj\Debug\net5.0\AbstractClassesC.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c#\c#\AbstractClassesC\AbstractClassesC\obj\Debug\net5.0\AbstractClassesC.dll
+C:\Users\User\Desktop\c#\c#\AbstractClassesC\AbstractClassesC\obj\Debug\net5.0\refint\AbstractClassesC.dll
+C:\Users\User\Desktop\c#\c#\AbstractClassesC\AbstractClassesC\obj\Debug\net5.0\AbstractClassesC.pdb
+C:\Users\User\Desktop\c#\c#\AbstractClassesC\AbstractClassesC\obj\Debug\net5.0\AbstractClassesC.genruntimeconfig.cache
+C:\Users\User\Desktop\c#\c#\AbstractClassesC\AbstractClassesC\obj\Debug\net5.0\ref\AbstractClassesC.dll
