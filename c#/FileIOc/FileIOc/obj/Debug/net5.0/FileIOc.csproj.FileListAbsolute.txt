@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\c#\c#\FileIOc\FileIOc\bin\Debug\net5.0\FileIOc.exe
+C:\Users\User\Desktop\c#\c#\FileIOc\FileIOc\bin\Debug\net5.0\FileIOc.deps.json
+C:\Users\User\Desktop\c#\c#\FileIOc\FileIOc\bin\Debug\net5.0\FileIOc.runtimeconfig.json
+C:\Users\User\Desktop\c#\c#\FileIOc\FileIOc\bin\Debug\net5.0\FileIOc.runtimeconfig.dev.json
+C:\Users\User\Desktop\c#\c#\FileIOc\FileIOc\bin\Debug\net5.0\FileIOc.dll
+C:\Users\User\Desktop\c#\c#\FileIOc\FileIOc\bin\Debug\net5.0\FileIOc.pdb
+C:\Users\User\Desktop\c#\c#\FileIOc\FileIOc\obj\Debug\net5.0\FileIOc.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\c#\c#\FileIOc\FileIOc\obj\Debug\net5.0\FileIOc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\c#\c#\FileIOc\FileIOc\obj\Debug\net5.0\FileIOc.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\c#\c#\FileIOc\FileIOc\obj\Debug\net5.0\FileIOc.AssemblyInfo.cs
+C:\Users\User\Desktop\c#\c#\FileIOc\FileIOc\obj\Debug\net5.0\FileIOc.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c#\c#\FileIOc\FileIOc\obj\Debug\net5.0\FileIOc.dll
+C:\Users\User\Desktop\c#\c#\FileIOc\FileIOc\obj\Debug\net5.0\refint\FileIOc.dll
+C:\Users\User\Desktop\c#\c#\FileIOc\FileIOc\obj\Debug\net5.0\FileIOc.pdb
+C:\Users\User\Desktop\c#\c#\FileIOc\FileIOc\obj\Debug\net5.0\FileIOc.genruntimeconfig.cache
+C:\Users\User\Desktop\c#\c#\FileIOc\FileIOc\obj\Debug\net5.0\ref\FileIOc.dll
