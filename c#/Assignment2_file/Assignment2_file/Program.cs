@@ -8,7 +8,20 @@ namespace Assignment2_file
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string[] lines = System.IO.File.ReadAllLines(@"C:\Users\User\Desktop\c#\c#\input.txt");
+
+            using(StreamWriter file = new StreamWriter(@"C:\Users\User\Desktop\c#\c#\output.txt"))
+            {
+                foreach (string line in lines)
+                {
+                    if (line.Contains("split"))
+                    {
+                        file.WriteLine(line.Split(" ")[4]);
+                    }
+                }
+            }
+            
+            
         }
     }
 }

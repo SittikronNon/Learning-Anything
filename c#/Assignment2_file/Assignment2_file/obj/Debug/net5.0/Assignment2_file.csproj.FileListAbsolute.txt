@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\c#\c#\Assignment2_file\Assignment2_file\bin\Debug\net5.0\Assignment2_file.exe
+C:\Users\User\Desktop\c#\c#\Assignment2_file\Assignment2_file\bin\Debug\net5.0\Assignment2_file.deps.json
+C:\Users\User\Desktop\c#\c#\Assignment2_file\Assignment2_file\bin\Debug\net5.0\Assignment2_file.runtimeconfig.json
+C:\Users\User\Desktop\c#\c#\Assignment2_file\Assignment2_file\bin\Debug\net5.0\Assignment2_file.runtimeconfig.dev.json
+C:\Users\User\Desktop\c#\c#\Assignment2_file\Assignment2_file\bin\Debug\net5.0\Assignment2_file.dll
+C:\Users\User\Desktop\c#\c#\Assignment2_file\Assignment2_file\bin\Debug\net5.0\Assignment2_file.pdb
+C:\Users\User\Desktop\c#\c#\Assignment2_file\Assignment2_file\obj\Debug\net5.0\Assignment2_file.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\c#\c#\Assignment2_file\Assignment2_file\obj\Debug\net5.0\Assignment2_file.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\c#\c#\Assignment2_file\Assignment2_file\obj\Debug\net5.0\Assignment2_file.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\c#\c#\Assignment2_file\Assignment2_file\obj\Debug\net5.0\Assignment2_file.AssemblyInfo.cs
+C:\Users\User\Desktop\c#\c#\Assignment2_file\Assignment2_file\obj\Debug\net5.0\Assignment2_file.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c#\c#\Assignment2_file\Assignment2_file\obj\Debug\net5.0\Assignment2_file.dll
+C:\Users\User\Desktop\c#\c#\Assignment2_file\Assignment2_file\obj\Debug\net5.0\refint\Assignment2_file.dll
+C:\Users\User\Desktop\c#\c#\Assignment2_file\Assignment2_file\obj\Debug\net5.0\Assignment2_file.pdb
+C:\Users\User\Desktop\c#\c#\Assignment2_file\Assignment2_file\obj\Debug\net5.0\Assignment2_file.genruntimeconfig.cache
+C:\Users\User\Desktop\c#\c#\Assignment2_file\Assignment2_file\obj\Debug\net5.0\ref\Assignment2_file.dll
