@@ -28,6 +28,20 @@ namespace DelegatesDemo
 
             DisplayPeople("ALL", people, delegate (Person p) { return true; });
 
+
+            string searchKeyword = "A";
+            DisplayPeople("Age > 20 with search keyword" + searchKeyword, people, (p) =>
+            {
+                if(p.Name.Contains(searchKeyword) && p.Age > 20)
+                {
+                    return true;
+                }
+                else
+                {
+                    return false;
+                }
+            });
+            DisplayPeople("Exactly 25:", people, p => p.Age == 25);
         }
 
         static void DisplayPeople(string title, List<Person> people, FilterDelegate filter)
