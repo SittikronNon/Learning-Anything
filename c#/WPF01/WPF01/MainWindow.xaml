@@ -6,8 +6,23 @@
         xmlns:local="clr-namespace:WPF01"
         mc:Ignorable="d"
         Title="My First GUI" Height="450" Width="800">
+    <!-- XAML -> Exentsible Application Markup Language -->
+    <!--
     <Grid>
-        <TextBlock HorizontalAlignment="Center" TextWrapping="Wrap" Text="Hello World" VerticalAlignment="Center" Height="85" Width="140" FontWeight="Bold" FontSize="16" TextAlignment="Center"/>
-
+        
+            <Button>
+            <Button.Width>200</Button.Width>
+            <Button.Height>100</Button.Height>
+            <Button.FontSize>24</Button.FontSize>
+            <Button.Content>
+                <WrapPanel>
+                    <TextBlock Foreground="Red">Multi</TextBlock>
+                    <TextBlock Foreground="Green">Color</TextBlock>
+                    <TextBlock Foreground="Blue">Button</TextBlock>
+                </WrapPanel>
+            </Button.Content>
+        </Button>
+        
     </Grid>
+        -->
 </Window>
