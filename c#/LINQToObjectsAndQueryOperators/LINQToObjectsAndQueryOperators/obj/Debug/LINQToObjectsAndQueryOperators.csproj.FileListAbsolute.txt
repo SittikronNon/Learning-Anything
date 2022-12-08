@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\c#\c#\LINQToObjectsAndQueryOperators\LINQToObjectsAndQueryOperators\bin\Debug\LINQToObjectsAndQueryOperators.exe.config
+C:\Users\User\Desktop\c#\c#\LINQToObjectsAndQueryOperators\LINQToObjectsAndQueryOperators\bin\Debug\LINQToObjectsAndQueryOperators.exe
+C:\Users\User\Desktop\c#\c#\LINQToObjectsAndQueryOperators\LINQToObjectsAndQueryOperators\bin\Debug\LINQToObjectsAndQueryOperators.pdb
+C:\Users\User\Desktop\c#\c#\LINQToObjectsAndQueryOperators\LINQToObjectsAndQueryOperators\obj\Debug\LINQToObjectsAndQueryOperators.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\c#\c#\LINQToObjectsAndQueryOperators\LINQToObjectsAndQueryOperators\obj\Debug\LINQToObjectsAndQueryOperators.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\c#\c#\LINQToObjectsAndQueryOperators\LINQToObjectsAndQueryOperators\obj\Debug\LINQToObjectsAndQueryOperators.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c#\c#\LINQToObjectsAndQueryOperators\LINQToObjectsAndQueryOperators\obj\Debug\LINQToObjectsAndQueryOperators.exe
+C:\Users\User\Desktop\c#\c#\LINQToObjectsAndQueryOperators\LINQToObjectsAndQueryOperators\obj\Debug\LINQToObjectsAndQueryOperators.pdb
