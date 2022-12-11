@@ -18,6 +18,7 @@ namespace LINQToObjectsAndQueryOperators
 
             um.SortStudentsByAge();
             um.AllStudentsFromNewcastleUniversity();
+            um.AllStudentsFromUniversityOfLeeds();
             int[] someInts = { 30, 12, 4, 3, 12 };
             IEnumerable<int> sortedInts = from i in someInts orderby i select i;
             IEnumerable<int> reversedInts = sortedInts.Reverse();
@@ -46,6 +47,7 @@ namespace LINQToObjectsAndQueryOperators
                 Console.WriteLine("Wrong value");
             }
             */
+            um.StudentAndUniversityNameCollection();
             Console.ReadKey();
         }
     }
@@ -118,6 +120,20 @@ namespace LINQToObjectsAndQueryOperators
 
         }
 
+        public void AllStudentsFromUniversityOfLeeds()
+        {
+            IEnumerable<Student> uolStudents = from student in students
+                                               join university in universities on student.UniversityId equals university.Id
+                                               where university.Name == "University of Leeds"
+                                               select student;
+            Console.WriteLine("Students from University of Leeds");
+            foreach(Student student in uolStudents)
+            {
+                student.Print();
+            }
+
+        }
+
         public void AllStudentsFromThatUni(int Id)
         {
             IEnumerable<Student> myStudents = from student in students
@@ -131,6 +147,21 @@ namespace LINQToObjectsAndQueryOperators
                 student.Print();
             }
         }
+
+        public void StudentAndUniversityNameCollection()
+        {
+            var newCollection = from student in students
+                                join university in universities on student.UniversityId equals university.Id
+                                orderby student.Name
+                                select new { StudentName = student.Name, UniversityName = university.Name };
+
+            Console.WriteLine("New Collection : ");
+            foreach(var col in newCollection)
+            {
+                Console.WriteLine("Student {0} from University {1}", col.StudentName, col.UniversityName);
+            }
+        }
+
     }
 
     class University
