@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\c#\c#\LinqAndSQL\LinqAndSQL\bin\Debug\LinqAndSQL.exe.config
+C:\Users\User\Desktop\c#\c#\LinqAndSQL\LinqAndSQL\bin\Debug\LinqAndSQL.exe
+C:\Users\User\Desktop\c#\c#\LinqAndSQL\LinqAndSQL\bin\Debug\LinqAndSQL.pdb
+C:\Users\User\Desktop\c#\c#\LinqAndSQL\LinqAndSQL\obj\Debug\LinqAndSQL.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\c#\c#\LinqAndSQL\LinqAndSQL\obj\Debug\LinqAndSQL.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\c#\c#\LinqAndSQL\LinqAndSQL\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\c#\c#\LinqAndSQL\LinqAndSQL\obj\Debug\App.g.cs
+C:\Users\User\Desktop\c#\c#\LinqAndSQL\LinqAndSQL\obj\Debug\LinqAndSQL_MarkupCompile.cache
+C:\Users\User\Desktop\c#\c#\LinqAndSQL\LinqAndSQL\obj\Debug\LinqAndSQL_MarkupCompile.lref
+C:\Users\User\Desktop\c#\c#\LinqAndSQL\LinqAndSQL\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\c#\c#\LinqAndSQL\LinqAndSQL\obj\Debug\LinqAndSQL.g.resources
+C:\Users\User\Desktop\c#\c#\LinqAndSQL\LinqAndSQL\obj\Debug\LinqAndSQL.Properties.Resources.resources
+C:\Users\User\Desktop\c#\c#\LinqAndSQL\LinqAndSQL\obj\Debug\LinqAndSQL.csproj.GenerateResource.cache
+C:\Users\User\Desktop\c#\c#\LinqAndSQL\LinqAndSQL\obj\Debug\LinqAndSQL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c#\c#\LinqAndSQL\LinqAndSQL\obj\Debug\LinqAndSQL.exe
+C:\Users\User\Desktop\c#\c#\LinqAndSQL\LinqAndSQL\obj\Debug\LinqAndSQL.pdb
