@@ -35,7 +35,9 @@ namespace LinqAndSQL
             //InsertStudentLectureAssociations();
             //GetUniversityTony();
 
-            GetLecturesFromTony();
+            //GetLecturesFromTony();
+            //GetAllStudentsFromYale();
+            GetAllUniversityWithFemale();
         }
 
         public void InsertUniversity()
@@ -45,7 +47,7 @@ namespace LinqAndSQL
             
             University yale = new University();
             University newcastle = new University();
-            yale.Name = "Yale";s
+            yale.Name = "Yale";
             newcastle.Name = "Newcastle";
             dataContext.Universities.InsertOnSubmit(yale);
             dataContext.Universities.InsertOnSubmit(newcastle);
@@ -123,6 +125,25 @@ namespace LinqAndSQL
             Student Tony = dataContext.Students.First(st => st.Name.Equals("Tony"));
             var tonyLectures = from sl in Tony.StudentLectures select sl.Lecture;
             MainDataGrid.ItemsSource = tonyLectures;
+        }
+
+        public void GetAllStudentsFromYale()
+        {
+            var studentsFromYale = from student in dataContext.Students
+                                   where student.University.Name == "Yale"
+                                   select student;
+
+            MainDataGrid.ItemsSource = studentsFromYale;
+        }
+
+        public void GetAllUniversityWithFemale()
+        {
+            var femaleUniversities = from student in dataContext.Students
+                                          join university in dataContext.Universities
+                                          on student.University equals university
+                                          where student.Gender == "Female"
+                                          select university;
+            MainDataGrid.ItemsSource = femaleUniversities;
         }
     }
 }
